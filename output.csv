@@ -1,0 +1,41 @@
+College Name,Address,latitude,longitude,optimized_route,total_distance,Cluster_Tag
+"Dr. Ambedkar Institute of Technology (AIT), Bangalore","Outer Ring Rd, near Gnana Bharathi, 2 Stage, Naagarabhaavi, Bengaluru, Karnataka 560056, India",12.9628416,77.5125509,3,60.92,cluster_1
+"East West Group of Institutions, Magadi Road","4th 'T' Block, East West College Road, Magadi Road, Bangalore - 560091, Karnataka, India",12.9855848,77.48631259999999,1,60.92,cluster_1
+Global Academy of Technology,"Aditya Layout, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098",12.9314106,77.5261129,2,60.92,cluster_1
+R.N.S. Institute of Technology,"RNSIT Post, Channasandra, Bangalore - 560098, Karnataka, India",12.9021902,77.518582,5,60.92,cluster_1
+R.V. College of Engineering,"Mysore Road, Bangalore - 560059, Karnataka, India",12.9241277,77.4980631,6,60.92,cluster_1
+SJB Institute of Technology,"No.67, BGS Health & Education City, Dr.Vishnuvardhan Rd, Kengeri, Bengaluru, Karnataka 560060",12.9100459,77.4869327,7,60.92,cluster_1
+SJB Institute of Technology,"No.67, BGS Health & Education City, Dr.Vishnuvardhan Rd, Kengeri, Bengaluru, Karnataka 560060",12.9100459,77.4869327,9,60.92,cluster_1
+RNS Institute of Technology,"RNSIT Post, Channasandra, Bangalore - 560098, Karnataka, India",12.9021902,77.518582,4,60.92,cluster_1
+JSS Academy of Technical Education,"JSSATE-B Campus, Dr.Vishnuvardhan Rd Uttarahalli-Kengeri Main Road, JSS Campus Rd, Srinivaspura, Bengaluru, Karnataka 560060",12.9030297,77.50474419999999,8,60.92,cluster_1
+Alpha College of Engineering,"30/2, Hennur Bagalur Main Rd, Sonam Layout, Visthar, Bengaluru, Karnataka 560077, India",13.0753672,77.665245,4,72.695,cluster_2
+BMS Institute of Technology and Management,"Doddaballapur Main Road, Yelahanka, Bangalore - 560064, Karnataka, India",13.1052594,77.5829847,2,72.695,cluster_2
+"GITAM School of Technology, Bengaluru","GITAM University Campus, Nagadenahalli, Yelahanka, Bangalore - 562157, Karnataka, India",13.1154662,77.6069977,3,72.695,cluster_2
+Impact College of Engineering and Applied Sciences,"Kodigehalli, South, 60 Feet Rd, Sahakar Nagar, Koti Hosahalli, Bengaluru, Karnataka 560092",13.0637393,77.5873926,5,72.695,cluster_2
+Sai Vidya Institute of Technology,"via, Yelahanka, Rajanukunte, Bengaluru, Karnataka 560064",13.1154662,77.6069977,6,72.695,cluster_2
+Sir M. Visvesvaraya Institute of Technology,"International Airport Road, Hunasamaranahalli, Yelahanka, Sir M Visvesvaraya Inst Rd, Yelahanka, Bengaluru, Karnataka 562157",13.1547725,77.6053192,1,72.695,cluster_2
+Vijaya Vittala Institute of Technology,"No.35, 1, Hennur Bagalur Main Rd, Kothanur, Bengaluru, Karnataka 560077",13.0510705,77.6454578,8,72.695,cluster_2
+Acharya Institute of Technology,"Soldevanahalli, Hennur Bagalur Road, Bangalore - 560107, Karnataka, India",13.0602716,77.6487166,7,72.695,cluster_2
+Alliance College of Engineering & Design,"Central Campus, Anekal Main Rd, Chikkahagade Cross, Bengaluru, Karnataka 562106",12.7282135,77.68745,1,62.249,cluster_3
+AMC Engineering College,"Bannerghatta Main Rd, Kalkere, Bengaluru, Karnataka 560083",12.7943684,77.6209533,2,62.249,cluster_3
+MS College of Engineering,"Navarathna Agrahara,Sadahalli P.O, off Bengaluru International Airport, Bengaluru, Karnataka 562110, India",13.198909,77.7068926,1,80.498,cluster_4
+M.S. Engineering College,"Navarathna Agrahara,Sadahalli P.O, off Bengaluru International Airport, Bengaluru, Karnataka 562110",13.198909,77.7068926,2,80.498,cluster_4
+SVCE - Sri Venkateshwara College of Engineering,"Kempegowda International Airport Bengaluru, Road, Kempegowda Int'l Airport Rd, Vidya Nagar, Central Telecom Society, Bengaluru, Karnataka 562157",13.198909,77.7068926,3,80.498,cluster_4
+BTL Institute of Technology and Management,"259/B, Hosur Rd, Bommasandra Industrial Area, Bengaluru, Bommasandra, Karnataka 560099, India",12.8107478,77.6947347,1,47.585,cluster_5
+"International Institute of Information Technology, Bangalore","26/C, Electronic City, Hosur Road, Bangalore - 560100, Karnataka, India",12.8394822,77.6895438,3,47.585,cluster_5
+S.E.A College of Engineering & Technology,"Bangalore - Hosur Road, Vidyagiri, Anekal, Bangalore - 562106, Karnataka, India",12.7940701,77.7216788,2,47.585,cluster_5
+APS College of Engineering,"Somanahalli, Kanakapura Main Rd, Bengaluru, Karnataka 562109",12.7706836,77.4915984,1,75.843,cluster_6
+"Don Bosco Institute of Technology, Bangalore","Kumbalgodu, Mysore Road, Bangalore - 560074, Karnataka, India",12.8785347,77.4453171,3,75.843,cluster_6
+Janatha Education Trust’s Vivekananda Institute of Technology (VKIT),"VF43+VJV, Kumbalagodu-Gollahalli-Thittahalli Road, Gudimavu, Kengeri Hobli, Kumbalagodu Post, Kumbalagodu, Bengaluru, Karnataka 560074",12.8510409,77.4518197,2,75.843,cluster_6
+RajaRajeswari College of Engineering,"Rajrajeswari College Of Engineering, Ramohalli Cross, Mysore Rd, Kumbalgodu, Bengaluru, Karnataka 560074",12.8865647,77.44981159999999,4,75.843,cluster_6
+Rajarajeswari College of Engineering,"Rajrajeswari College Of Engineering, Ramohalli Cross, Mysore Rd, Kumbalgodu, Bengaluru, Karnataka 560074",12.8865647,77.44981159999999,5,75.843,cluster_6
+Amity University Bengaluru,"Road, NH-207, opposite to the office of Deputy Commissioner, Devanahalli, Doddaballapura, Bengaluru, Karnataka 562110, India",12.9916961,77.5996944,5,42.855,cluster_7
+Atria Institute of Technology,"ASK Complex, Anand Nagar, Hebbal, Bengaluru, Karnataka 560024",13.031328,77.5913132,2,42.855,cluster_7
+Indian Institute of Science (IISc),"CV Raman Road, Bangalore - 560012, Karnataka, India",13.0143337,77.567515,4,42.855,cluster_7
+RGC - Rajiv Gandhi Group of Institution,"Gundappa Reddy Layout, Chola Nagar, Cholanayakanahalli, Hebbal, Bengaluru, Karnataka 560032",13.0342241,77.5927458,3,42.855,cluster_7
+"University Visvesvaraya College of Engineering, Bangalore University","K. R. Circle, Bangalore - 560001, Karnataka, India",12.9759797,77.5870765,1,42.855,cluster_7
+VIT - Vemana Institute of Technology,"2nd Stage, Domlur, Bangalore - 560071, Karnataka, India",12.9629467,77.6385779,6,42.855,cluster_7
+Amrita School of Engineering,"Kasavanahalli, Carmelaram PO, Sarjapur Rd, Bengaluru, Karnataka 560035",12.9075606,77.6955789,1,56.241,cluster_8
+Cambridge Institute of Technology,"Jai Bhuvaneshwari Layout Rd, SR Layout, Chikkabasavanapura, Krishnarajapuram, Bengaluru, Karnataka 560036, India",13.0131961,77.7043406,4,56.241,cluster_8
+M.V.J. College of Engineering,"Channasandra Main Rd, near ITPL Main Road, 3G Homes Crimson Layout, Kadugodi, Bengaluru, Karnataka 560067",12.9827599,77.763001,3,56.241,cluster_8
+NHCE Bangalore - New Horizon College of Engineering,"2nd Block, Kadubeesanahalli, Marathahalli, Bangalore - 560103, Karnataka, India",12.9394137,77.6952031,2,56.241,cluster_8
